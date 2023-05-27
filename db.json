@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Moldy Bread",
+      "hp": "6000",
+      "sprites": {
+        "front": "https://m.media-amazon.com/images/I/71UY2o4b-ML._CR0,289,1154,1154_UX256.jpg",
+        "back": "https://m.media-amazon.com/images/I/B1kJmXyDC+S._CR0,504,3024,3024_UX256.jpg"
+      },
+      "id": 151
     }
   ]
 }
